@@ -39,6 +39,6 @@
     "@types/google-protobuf": "^3.7.2",
     "google-protobuf": "^3.11.4",
     "protobufjs": "^6.10.1",
-    "rxjs": "^6.5.5"
+    "rxjs": "^6.6.7"
   }
 }
